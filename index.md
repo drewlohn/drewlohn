@@ -53,6 +53,8 @@
 </tr>
 <tr>
   <td><b>Physics</b>
+    <img src="advmatcover.jpg" alt="Adv Mat Cover" width="100%"><br>
+    Cool physics in a not physics journal
     <ul>
       <li>Published a bunch in 8 different physics journals</li>
       <li>Used math to discover surprising behavior in the real world</li>
@@ -60,6 +62,8 @@
     </ul>
 </td>
   <td><b>Chemistry</b>
+    <img src="1013.jpg" alt="MOCVD I built" width="100%"><br>
+    One of the gas-phase chemical reactors I built
     <ul>
       <li>Built a crystal growth lab at NASA</li>
       <li>Spent years getting all the flows and temperatures just right</li>
