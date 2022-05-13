@@ -1,3 +1,32 @@
+<table>
+<colgroup>
+<col width="30%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First column **fields**</td>
+<td>First column **fields**</td>
+<td>Some descriptive text.</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+<td>First column **fields**</td>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/drewlohn/drewlohn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
