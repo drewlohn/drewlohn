@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td width="30%"><b>Cybersecurity</b><br>
-    <img src="IMG_20210806_195611_641.jpg" alt="Black Hat Talk" width="75%"><br>
+    <img src="IMG_20210806_195611_641.jpg" alt="Black Hat Talk" height="350"><br>
     Black Hat Talk<br><br>
     <ul>
       <li>Taught Offensive Security Course</li>
@@ -9,7 +9,7 @@
       <li>Learned that some cyber ninjas are fantastic and others (like me) are just meh</li>
   </td>
   <td width="30%"><b>Artificial Intelligence</b><br>
-    <img src="downscaling.jpg" alt="Downscaling Attack" width="75%"><br>
+    <img src="downscaling.jpg" alt="Downscaling Attack" height="350"><br>
     Downscaling attacks on AI libraries<br><br>
     <ul>
       <li>Taught practical AI development course</li>
@@ -17,7 +17,7 @@
       <li>Am constantly awed by the power that other people's genius has put in my fingertips</li>
   </td>
   <td width="30%"><b>Geopolitics</b><br>
-    <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony" width="75%"><br>
+    <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony" height="350"><br>
     Senate Armed Services Testimony<br><br>
     <ul>
       <li>Faculty member in Georgetown's School of Foreign Service</li>
@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td><b>Drone Logistics</b>
-  <img src="ElevatePics - EnergyEquations - Cropped.jpg" alt="Uber Elevate Presentation" width="100%"><br>
+  <img src="ElevatePics - EnergyEquations - Cropped.jpg" alt="Uber Elevate Presentation" height="350"><br>
   Uber Elevate Presentation<br><br>
     <ul>
       <li>Calculated externalities of drone delivery at scale</li>
@@ -37,7 +37,7 @@
     </ul>
 </td>
   <td><b>Electrical Engineering</b><br>
-    <img src="I-V.jpg" alt="Current-Voltage graph">
+    <img src="I-V.jpg" alt="Current-Voltage graph" height="350">
     Weird circuit behavior we discovered<br><br>
     <ul>
       <li>Taught electronic circuits course</li>
@@ -55,7 +55,7 @@
 </tr>
 <tr>
   <td><b>Physics</b>
-    <img src="advmatcover.jpg" alt="Adv Mat Cover" width="100%"><br>
+    <img src="advmatcover.jpg" alt="Adv Mat Cover" height="350"><br>
     Cool physics in a not physics journal<br><br>
     <ul>
       <li>Published a bunch in 8 different physics journals</li>
@@ -64,7 +64,7 @@
     </ul>
 </td>
   <td><b>Chemistry</b>
-    <img src="1013.jpg" alt="MOCVD I built" width="100%"><br>
+    <img src="1013.jpg" alt="MOCVD I built" height="350"><br>
     A gas-phase chemical reactors I built<br><br>
     <ul>
       <li>Built a crystal growth lab at NASA</li>
@@ -73,7 +73,7 @@
     </ul>
 </td>
   <td><b>Nanotechnology</b>
-    <img src="TEM.jpg" alt="Atomic-scale microscopy"><br>
+    <img src="TEM.jpg" alt="Atomic-scale microscopy" height="350"><br>
     Atoms in a nanowire<br><br>
     <ul>
       <li>Made TINY materials and devices</li>
