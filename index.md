@@ -4,26 +4,37 @@
 <col width="30%" />
 <col width="30%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
 <tr>
-<td>First column **fields**</td>
-<td>First column **fields**</td>
-<td>Some descriptive text.</td>
+  <td><b>Cybersecurity</b>
+    <ul>
+      <li>Taught Offensive Security Course</li>
+      <li>Math and stats for reliability of cyber capabilities and operations</li>
+      <li>Capture the flag to categorize failure modes of offensive operations</li>
+  </td>
+  <td><b>Artificial Intelligence</b>
+    <ul>
+      <li>Taught practical AI development course</li>
+      <li>Build and probe models to test for security and misuse</li>
+      <li>Write about scaling of future AI models</li>
+  </td>
+  <td><b>Geopolitics</b>
+    <ul>
+      <li>Faculty member in Georgetown's School of Foreign Service</li>
+      <li>Member of OECD Compute and Climate Task Force</li>
+      <li>Study international competition over technology</li>
+    </ul>
+  </td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-<td>First column **fields**</td>
-</td>
+<td>Drone Logistics</td>
+<td>Electrical Engineering</td>
+<td>VR Game Design</td>
 </tr>
-</tbody>
+<tr>
+<td>Physics</td>
+<td>Chemistry</td>
+<td>Nanotechnology</td>
+</tr>
 </table>
 
 
