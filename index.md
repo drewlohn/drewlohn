@@ -36,7 +36,9 @@
       <li>Didn't fly in a flying taxi</li>
     </ul>
 </td>
-  <td><b>Electrical Engineering</b>
+  <td><b>Electrical Engineering</b><br>
+    <img src="I-V.jpg" alt="Current-Voltage graph">
+    Weird circuit behavior we discovered
     <ul>
       <li>Taught electronic circuits course</li>
       <li>Designed, fabricated, and tested electronic memories, solar cells and thermoelectrics</li>
