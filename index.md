@@ -63,7 +63,7 @@
 </td>
   <td><b>Chemistry</b>
     <img src="1013.jpg" alt="MOCVD I built" width="100%"><br>
-    One of the gas-phase chemical reactors I built
+    A gas-phase chemical reactors I built
     <ul>
       <li>Built a crystal growth lab at NASA</li>
       <li>Spent years getting all the flows and temperatures just right</li>
@@ -71,6 +71,8 @@
     </ul>
 </td>
   <td><b>Nanotechnology</b>
+    <img src="TEM.jpg" alt="Atomic-scale microscopy"><br>
+    Atoms in a nanowire
     <ul>
       <li>Made TINY materials and devices</li>
       <li>Did all the cool atom-scale microscopes and x-rays and laser stuffs</li>
