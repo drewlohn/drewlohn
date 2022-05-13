@@ -18,6 +18,7 @@
       <li>Write about scaling of future AI models</li>
   </td>
   <td><b>Geopolitics</b>
+    <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony">
     <ul>
       <li>Faculty member in Georgetown's School of Foreign Service</li>
       <li>Member of OECD Compute and Climate Task Force</li>
