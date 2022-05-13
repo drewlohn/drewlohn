@@ -5,7 +5,9 @@
 <col width="30%" />
 </colgroup>
 <tr>
-  <td><b>Cybersecurity</b>
+  <td><b>Cybersecurity</b><br>
+    <img src="IMG_20210806_195611_641.jpg" alt="Black Hat Talk" width="75%"><br>
+    Black Hat Talk
     <ul>
       <li>Taught Offensive Security Course</li>
       <li>Math and stats for reliability of cyber capabilities and operations</li>
@@ -17,24 +19,63 @@
       <li>Build and probe models to test for security and misuse</li>
       <li>Write about scaling of future AI models</li>
   </td>
-  <td><b>Geopolitics</b>
-    <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony">
+  <td><b>Geopolitics</b><br>
+    <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony" width="75%"><br>
+    Senate Armed Services Testimony
     <ul>
       <li>Faculty member in Georgetown's School of Foreign Service</li>
-      <li>Member of OECD Compute and Climate Task Force</li>
+      <li>Former member of OECD Compute and Climate Task Force</li>
       <li>Study international competition over technology</li>
     </ul>
   </td>
 </tr>
 <tr>
-<td>Drone Logistics</td>
-<td>Electrical Engineering</td>
-<td>VR Game Design</td>
+<td>Drone Logistics
+  <img src="ElevatePics - EnergyEquations - Cropped.jpg" alt="Uber Elevate Presentation" width="100%"><br>
+  Uber Elevate Presentation
+    <ul>
+      <li>Calculated externalities of drone delivery at scale</li>
+      <li>Presented for World Econonic Forum</li>
+      <li>Presented for Uber's flying taxis conference</li>
+    </ul>
+</td>
+<td>Electrical Engineering
+    <ul>
+      <li>Taught electronic circuits course</li>
+      <li>Designed, fabricated, and tested electronic memories</li>
+      <li>Designed, fabricated, and tested solar and thermal devices</li>
+    </ul>
+  </td>
+<td>VR Game Design
+    <ul>
+      <li>Designed, coded, and played VR game in Unity</li>
+      <li>Used my laser vision and teleportation to reach level 7</li>
+      <li>Didn't vomit!</li>
+    </ul>
+</td>
 </tr>
 <tr>
-<td>Physics</td>
-<td>Chemistry</td>
-<td>Nanotechnology</td>
+<td>Physics
+    <ul>
+      <li>Published a bunch in 8 different physics journals</li>
+      <li>Used math to discover surprising behavior in the real world</li>
+      <li>Found real beauty in the world's hidden simplicity</li>
+    </ul>
+</td>
+<td>Chemistry
+    <ul>
+      <li>Built a crystal growth lab at NASA</li>
+      <li>Spent years getting all the flows and temperatures just right</li>
+      <li>Learned that chemistry is black magic</li>
+    </ul>
+</td>
+<td>Nanotechnology
+    <ul>
+      <li>Made TINY materials and devices</li>
+      <li>Did all the cool atom-scale microscopes and x-rays and laser stuffs</li>
+      <li>Eventually fixed all the things I broke</li>
+    </ul>
+  </td>
 </tr>
 </table>
 
