@@ -1,27 +1,24 @@
 <table>
-<colgroup>
-<col width="30%" />
-<col width="30%" />
-<col width="30%" />
-</colgroup>
 <tr>
-  <td><b>Cybersecurity</b><br>
+  <td width="30%"><b>Cybersecurity</b><br>
     <img src="IMG_20210806_195611_641.jpg" alt="Black Hat Talk" width="75%"><br>
-    Black Hat Talk
+    Black Hat Talk<br>
     <ul>
       <li>Taught Offensive Security Course</li>
       <li>Math and stats for reliability of cyber capabilities and operations</li>
       <li>Capture the flag to categorize failure modes of offensive operations</li>
   </td>
-  <td><b>Artificial Intelligence</b>
+  <td width="30%"><b>Artificial Intelligence</b><br>
+    <img src="downscaling.jpg" alt="Downscaling Attack" width="75%"><br>
+    Downscaling attacks on AI libraries<br>
     <ul>
       <li>Taught practical AI development course</li>
       <li>Build and probe models to test for security and misuse</li>
       <li>Write about scaling of future AI models</li>
   </td>
-  <td><b>Geopolitics</b><br>
+  <td width="30%"><b>Geopolitics</b><br>
     <img src="IMG_20220503_225601_510.jpg" alt="Senate Armed Services Committee Testimony" width="75%"><br>
-    Senate Armed Services Testimony
+    Senate Armed Services Testimony<br>
     <ul>
       <li>Faculty member in Georgetown's School of Foreign Service</li>
       <li>Former member of OECD Compute and Climate Task Force</li>
@@ -30,7 +27,7 @@
   </td>
 </tr>
 <tr>
-<td>Drone Logistics
+<td><b>Drone Logistics</b>
   <img src="ElevatePics - EnergyEquations - Cropped.jpg" alt="Uber Elevate Presentation" width="100%"><br>
   Uber Elevate Presentation
     <ul>
@@ -39,14 +36,14 @@
       <li>Presented for Uber's flying taxis conference</li>
     </ul>
 </td>
-<td>Electrical Engineering
+  <td><b>Electrical Engineering</b>
     <ul>
       <li>Taught electronic circuits course</li>
       <li>Designed, fabricated, and tested electronic memories</li>
       <li>Designed, fabricated, and tested solar and thermal devices</li>
     </ul>
   </td>
-<td>VR Game Design
+  <td><b>VR Game Design</b>
     <ul>
       <li>Designed, coded, and played VR game in Unity</li>
       <li>Used my laser vision and teleportation to reach level 7</li>
@@ -55,21 +52,21 @@
 </td>
 </tr>
 <tr>
-<td>Physics
+  <td><b>Physics</b>
     <ul>
       <li>Published a bunch in 8 different physics journals</li>
       <li>Used math to discover surprising behavior in the real world</li>
       <li>Found real beauty in the world's hidden simplicity</li>
     </ul>
 </td>
-<td>Chemistry
+  <td><b>Chemistry</b>
     <ul>
       <li>Built a crystal growth lab at NASA</li>
       <li>Spent years getting all the flows and temperatures just right</li>
       <li>Learned that chemistry is black magic</li>
     </ul>
 </td>
-<td>Nanotechnology
+  <td><b>Nanotechnology</b>
     <ul>
       <li>Made TINY materials and devices</li>
       <li>Did all the cool atom-scale microscopes and x-rays and laser stuffs</li>
